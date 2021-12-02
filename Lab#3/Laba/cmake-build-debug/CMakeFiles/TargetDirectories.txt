@@ -1,0 +1,3 @@
+/Users/nester44/Desktop/Code/C/ASD/Lab#3/Laba/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nester44/Desktop/Code/C/ASD/Lab#3/Laba/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nester44/Desktop/Code/C/ASD/Lab#3/Laba/cmake-build-debug/CMakeFiles/Laba.dir
